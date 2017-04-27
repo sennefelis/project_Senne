@@ -1,0 +1,71 @@
+#achtergrond
+{
+    background-image: url(../images/background.jpg);
+    padding-bottom: 800px;
+}
+
+
+header
+{
+    background-color: white;
+    color: #888888;
+}
+
+#logo
+{
+    text-decoration: none;
+    color: #888888;
+}
+
+#buttonprofiel
+{
+    background-color: ghostwhite;
+  position:absolute;
+  top:20px;
+  right:180px;
+  line-height:45px;
+  color:#888888;
+  border:0;
+  font-size:1em;
+  font-weight:bold;
+  cursor:pointer;
+  outline:none;
+  z-index:10000000000000;
+}
+
+#buttonuitlog
+{
+    background-color: ghostwhite;
+  position:absolute;
+  top:20px;
+  right:40px;
+  line-height:45px;
+  color:#888888;
+  border:0;
+  font-size:1em;
+  font-weight:bold;
+  cursor:pointer;
+  outline:none;
+  z-index:10000000000000;
+}
+
+#buttonhomepage
+{
+    background-color: ghostwhite;
+  position:absolute;
+  top:20px;
+  right:300px;
+  line-height:45px;
+  color:#888888;
+  border:0;
+  font-size:1em;
+  font-weight:bold;
+  cursor:pointer;
+  outline:none;
+  z-index:10000000000000;
+}
+
+#titel
+{
+    text-align: center;
+}

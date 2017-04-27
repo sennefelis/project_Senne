@@ -1,0 +1,81 @@
+body{
+ background: url(images/desk-pencil-eraser-black.jpg)no-repeat center center fixed;
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    
+font-family: "Arial", sans-serif;
+}
+
+
+
+header{
+    /*background-color: darkgray;*/
+    color: white;
+}
+
+
+nav ul{
+    color: white;
+    font-size: 2em;
+    text-align: right;
+    padding-right: 10%;
+    
+}
+
+nav ul a{
+    text-decoration: none;
+    color: white;
+}
+
+nav ul a:hover{
+    text-decoration: none;
+    color: darkgray;
+}
+
+.box{
+    
+    /*background-color: lightgray;
+    /*opacity: 0.7;*/
+    background: rgba(175,175,175,0.5);
+    margin: auto;
+    padding: 20px;
+    width: 35%;
+    border-radius: 15px 50px 30px;
+}
+
+h1{
+    text-align: center;
+    font-size: 2em;
+}
+
+.form-group{
+    font-size: 1.5em;
+    color:black;
+    padding: 10px;
+}
+
+.btn{
+    text-align: center;
+    width:150px;
+    height: 50px;
+    font-size: 1em;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+.btn:hover{
+    background-color: darkgray;
+    color:white;
+}
+
+#password{
+    /*float:right;*/
+    width: 95%;
+    height: 40px;
+}
+
+.clearfix{
+    clear:both;
+}
